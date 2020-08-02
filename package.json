@@ -44,5 +44,13 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "description": "Proyecto de ejemplo de Angular con el objetivo de crear una aplicación con  subaplicaciones y libreria para el uso común de las subaplicaciones.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xendor88"
+  },
+  "author": "",
+  "license": "ISC"
 }
